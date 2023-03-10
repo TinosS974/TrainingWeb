@@ -71,7 +71,7 @@ a {
     }
   }
 
-  @media screen and (max-width 700px) {
+  @media screen and (max-width: 700px) {
     .section_margin {
         margin: 4rem;
     }
@@ -80,7 +80,7 @@ a {
     }
   }
 
-  @media screen and (max-width 550px) {
+  @media screen and (max-width: 550px) {
     .section_margin {
         margin: 4rem 2rem;
     }
